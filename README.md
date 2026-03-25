@@ -29,3 +29,4 @@ Presentation Layer
 Files: Home.html, Alvin.html, Jious.html, add.html, jjj.html, xx.html
 Purpose: Each HTML file represents a distinct view or component
 Benefits: Separation of concerns allows each team member to work on different pages
+
